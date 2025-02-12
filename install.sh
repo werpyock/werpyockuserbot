@@ -8,3 +8,4 @@ echo "Устанавливаем зависимости Python для запус
 pip install --upgrade pip
 pip install telethon
 echo "Запускаю Werpyock Userbot.."
+python start.py
