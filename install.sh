@@ -8,5 +8,5 @@ cd werpyockuserbot
 echo "Устанавливаем зависимости Python для запуска..."
 pip install --upgrade pip
 pip install telethon
-echo "Запускаю Werpyock Userbot.."
+echo "Запускаю установку Werpyock Userbot.."
 python start.py
