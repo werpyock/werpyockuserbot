@@ -1,5 +1,4 @@
 #!/bin/sh
-cd werpyockuserbot
 echo "Устанавливаем необходимые пакеты..."
 pkg update -y
 pkg upgrade -y
